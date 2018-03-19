@@ -1,0 +1,36 @@
+body{
+		background-image:url(photos/Kylo-Ren-Wallpapers-UHD.jpg);
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size:cover;
+		background-position:center;
+}
+img:hover{
+	width:1000px;
+	height:580px;
+}
+div.sticky{
+	position: sticky;
+	top: 0;
+	color:white;
+	background-image:url(photos/camo.jpg);
+}
+
+p{
+	color:white;
+}
+h1{
+	color:white;
+}
+#div1{
+	color:white;
+}
+#div2{
+	color:white;
+}
+footer{
+	color:white;
+}
+table{
+	color:white;
+}	
